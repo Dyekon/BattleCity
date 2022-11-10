@@ -1,0 +1,9 @@
+E:\programming\C#\BattleCity\PacMan\bin\Release\PacMan.exe.config
+E:\programming\C#\BattleCity\PacMan\bin\Release\PacMan.exe
+E:\programming\C#\BattleCity\PacMan\bin\Release\PacMan.pdb
+E:\programming\C#\BattleCity\PacMan\obj\Release\PacMan.Form1.resources
+E:\programming\C#\BattleCity\PacMan\obj\Release\PacMan.Properties.Resources.resources
+E:\programming\C#\BattleCity\PacMan\obj\Release\PacMan.csproj.GenerateResource.cache
+E:\programming\C#\BattleCity\PacMan\obj\Release\PacMan.csproj.CoreCompileInputs.cache
+E:\programming\C#\BattleCity\PacMan\obj\Release\PacMan.exe
+E:\programming\C#\BattleCity\PacMan\obj\Release\PacMan.pdb
